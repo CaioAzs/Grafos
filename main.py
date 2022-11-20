@@ -11,10 +11,6 @@ bipartido = True
 x = [0]
 y = []
 
-print("""\nIntegrantes do grupo:
-Caio de Souza Conceição (RA: 22.122.033-8)
-Samir Oliveira da Costa (RA: 22.122.030-4)
-Lucas Rebouças Silva (RA: 22.122.048-6) \n""")
 with open ("A.txt", "r") as file:
     file = file.readlines()
     for i in file:
