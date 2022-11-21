@@ -3,7 +3,7 @@
 </h6>
 
 <h2 align="center">
-    Projeto Análise Grafos.
+    Projeto Análise Grafos
 </h2>
 
 Status: Finalizado ✅
